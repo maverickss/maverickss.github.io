@@ -1,5 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://maverickss.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maverickss.github.io/" rel="alternate" type="text/html" /><updated>2019-07-21T23:37:19+08:00</updated><id>https://maverickss.github.io/feed.xml</id><title type="html">Shen Blog</title><subtitle>Material theme based on &lt;a href=&quot;http://materializecss.com&quot;&gt;Materialize.css&lt;/a&gt; for jekyll sites
-</subtitle><entry><title type="html">My very fisrt post!</title><link href="https://maverickss.github.io/2019/07/21/my-first-post" rel="alternate" type="text/html" title="My very fisrt post!" /><published>2019-07-21T11:32:13+08:00</published><updated>2019-07-21T11:32:13+08:00</updated><id>https://maverickss.github.io/2019/07/21/my-first-post</id><content type="html" xml:base="https://maverickss.github.io/2019/07/21/my-first-post">&lt;p&gt;I am trying to do my first post&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://maverickss.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maverickss.github.io/" rel="alternate" type="text/html" /><updated>2019-08-16T07:56:20+08:00</updated><id>https://maverickss.github.io/feed.xml</id><title type="html">Shen Blog</title><subtitle>Material theme based on &lt;a href=&quot;http://materializecss.com&quot;&gt;Materialize.css&lt;/a&gt; for jekyll sites
+</subtitle><entry><title type="html">6.824 lecture 1</title><link href="https://maverickss.github.io/2019/07/22/6.824-lecture1" rel="alternate" type="text/html" title="6.824 lecture 1" /><published>2019-07-22T21:32:13+08:00</published><updated>2019-07-22T21:32:13+08:00</updated><id>https://maverickss.github.io/2019/07/22/6.824-lecture1</id><content type="html" xml:base="https://maverickss.github.io/2019/07/22/6.824-lecture1">&lt;h1&gt;6.824 lecture&lt;/h1&gt;
+
+&lt;h2&gt;MapReduce(2004)&lt;/h2&gt;
+&lt;h3&gt;Citation&lt;/h3&gt;
+
+&lt;p&gt;Interprocess Communication&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;RPC&lt;/li&gt;
+  &lt;li&gt;RMI&lt;/li&gt;
+  &lt;li&gt;Message&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Processes and schedule&lt;/p&gt;
+
+&lt;p&gt;Naming and location management&lt;/p&gt;
+
+&lt;p&gt;Canonical problems and solutions&lt;/p&gt;
+
+&lt;p&gt;Resource sharing, replication and consistency&lt;/p&gt;</content><author><name></name></author><summary type="html">6.824 lecture</summary></entry><entry><title type="html">My very fisrt post!</title><link href="https://maverickss.github.io/2019/07/21/my-first-post" rel="alternate" type="text/html" title="My very fisrt post!" /><published>2019-07-21T11:32:13+08:00</published><updated>2019-07-21T11:32:13+08:00</updated><id>https://maverickss.github.io/2019/07/21/my-first-post</id><content type="html" xml:base="https://maverickss.github.io/2019/07/21/my-first-post">&lt;p&gt;I am trying to do my first post&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;socket&quot;&lt;/span&gt;
 
